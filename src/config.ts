@@ -4,25 +4,25 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 export const SITE = {
-  name:          'TODO: Site Name',
-  domain:        'TODO: yourdomain.com',
-  url:           'https://TODO.yourdomain.com',
-  tagline:       'TODO: Independent reviews of [Niche]',
-  description:   'TODO: Site meta description for search engines.',
+  name:          'Top AI Consulting Agencies',
+  domain:        'top-ai-consulting-agencies.com',
+  url:           'https://top-ai-consulting-agencies.com',
+  tagline:       'Independent reviews of AI consulting agencies',
+  description:   'Ranked, independently researched reviews of the top AI consulting agencies for shortlisting strategy and implementation partners.',
   locale:        'en_US',
   twitterHandle: '',        // e.g. '@yourhandle' — leave empty to omit OG tag
 };
 
 export const NICHE = {
-  label:          'TODO: Niche Label',    // e.g. "AI Agent Development" — used in headings and meta
-  providerLabel:  'company',              // singular: "company" or "agency" or "tool"
-  providersLabel: 'companies',            // plural
-  verticalSlug:   'TODO-niche-slug',      // used in URL slugs, e.g. "ai-agent-development"
+  label:          'AI Consulting',
+  providerLabel:  'agency',
+  providersLabel: 'agencies',
+  verticalSlug:   'ai-consulting',
 };
 
 export const BRANDING = {
-  primaryColor: '#1e40af',  // tailwind brand-600; update tailwind.config.mjs too
-  logoText:     'TODO: Site Name',
+  primaryColor: '#0d9488',  // tailwind brand-600; update tailwind.config.mjs too
+  logoText:     'Top AI Consulting Agencies',
   logoPath:     '/logos/site-logo.svg',   // place file in public/logos/
 };
 
