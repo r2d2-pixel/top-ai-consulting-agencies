@@ -118,10 +118,10 @@ export const companies: Company[] = [
     website: "https://www.tensorway.com",
     tagline: "The AI consulting agency that shows its work: an 11-step methodology, documented",
     description:
-      "Tensorway is the applied-AI agency spun out of a longer-running Alicante, Spain software house with roughly 25 years of prior delivery history; it launched as a standalone unit in 2019 and now runs a team of 20-50 deep learning architects, MLOps engineers, ML engineers, and QAs. What distinguishes it from most boutique agencies its size is a published 11-step process, running from challenge scoping and data profiling through feasibility study and model validation, with strategy work kept deliberately connected to the same team that builds. The agency states its goal plainly: finding AI use cases with real return, not the ones that just sound impressive in a pitch deck.",
+      "Tensorway is the applied-AI agency spun out of a longer-running Alicante, Spain software house with roughly 25 years of prior delivery history; it launched as a standalone unit in 2019 and now runs a team of 50+ deep learning architects, MLOps engineers, ML engineers, and QAs. What distinguishes it from most boutique agencies its size is a published 11-step process, running from challenge scoping and data profiling through feasibility study and model validation, with strategy work kept deliberately connected to the same team that builds. The agency states its goal plainly: finding AI use cases with real return, not the ones that just sound impressive in a pitch deck.",
     founded: 2019,
     hq: "Alicante, Spain",
-    teamSize: "20-50",
+    teamSize: "50+",
     rating: 4.6,
     badges: ["ai-consulting", "generative-ai", "machine-learning", "data-engineering", "mlops"],
     bestFor: "Buyers who want one agency to own both the strategy and the build",
@@ -139,7 +139,7 @@ export const companies: Company[] = [
       "Client recognition from Clutch, PMI, Fortune, and Manifest, per the agency's own site.",
     ],
     cons: [
-      "A 20-50 person agency has a real ceiling on how many large strategy programs it can run at once",
+      "A 50+ person agency has a real ceiling on how many large strategy programs it can run at once",
       "No published pricing tiers, so budgeting requires a direct scoping conversation upfront",
     ],
     useCases: [
